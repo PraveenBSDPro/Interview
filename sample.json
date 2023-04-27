@@ -1,0 +1,670 @@
+{
+    "data": [
+        {
+            "Date-Time": "2023-01-01 01:00",
+            "2xx (Success)": 110,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 0,
+            "2xx %": "(2xx / (2xx+4xx+5xx))* 100",
+            "Latency 95th Percentile (ms)": 45
+        },
+        {
+            "Date-Time": "2023-01-01 02:00",
+            "2xx (Success)": 115,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 48
+        },
+        {
+            "Date-Time": "2023-01-01 03:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 55
+        },
+        {
+            "Date-Time": "2023-01-01 04:00",
+            "2xx (Success)": 100,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 53
+        },
+        {
+            "Date-Time": "2023-01-01 05:00",
+            "2xx (Success)": 95,
+            "4xx (Client Errors)": 8,
+            "5xx (Server Errors)": 3,
+            "Latency 95th Percentile (ms)": 58
+        },
+        {
+            "Date-Time": "2023-01-01 06:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 7,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 52
+        },
+        {
+            "Date-Time": "2023-01-01 07:00",
+            "2xx (Success)": 100,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 54
+        },
+        {
+            "Date-Time": "2023-01-01 08:00",
+            "2xx (Success)": 115,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 49
+        },
+        {
+            "Date-Time": "2023-01-01 09:00",
+            "2xx (Success)": 120,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 51
+        },
+        {
+            "Date-Time": "2023-01-01 10:00",
+            "2xx (Success)": 110,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 47
+        },
+        {
+            "Date-Time": "2023-01-01 11:00",
+            "2xx (Success)": 115,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 45
+        },
+        {
+            "Date-Time": "2023-01-01 12:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 50
+        },
+        {
+            "Date-Time": "2023-01-01 13:00",
+            "2xx (Success)": 100,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 52
+        },
+        {
+            "Date-Time": "2023-01-01 14:00",
+            "2xx (Success)": 95,
+            "4xx (Client Errors)": 8,
+            "5xx (Server Errors)": 3,
+            "Latency 95th Percentile (ms)": 58
+        },
+        {
+            "Date-Time": "2023-01-01 15:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 7,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 52
+        },
+        {
+            "Date-Time": "2023-01-01 16:00",
+            "2xx (Success)": 100,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 49
+        },
+        {
+            "Date-Time": "2023-01-01 17:00",
+            "2xx (Success)": 115,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 47
+        },
+        {
+            "Date-Time": "2023-01-01 18:00",
+            "2xx (Success)": 120,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 45
+        },
+        {
+            "Date-Time": "2023-01-01 19:00",
+            "2xx (Success)": 110,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 46
+        },
+        {
+            "Date-Time": "2023-01-01 20:00",
+            "2xx (Success)": 115,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 48
+        },
+        {
+            "Date-Time": "2023-01-01 21:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 53
+        },
+        {
+            "Date-Time": "2023-01-01 22:00",
+            "2xx (Success)": 110,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 55
+        },
+        {
+            "Date-Time": "2023-01-02 23:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 50
+        },
+        {
+            "Date-Time": "2023-01-03 00:00",
+            "2xx (Success)": 100,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 48
+        },
+        {
+            "Date-Time": "2023-01-03 01:00",
+            "2xx (Success)": 95,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 46
+        },
+        {
+            "Date-Time": "2023-01-03 02:00",
+            "2xx (Success)": 110,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 42
+        },
+        {
+            "Date-Time": "2023-01-03 03:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 44
+        },
+        {
+            "Date-Time": "2023-01-03 04:00",
+            "2xx (Success)": 100,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 43
+        },
+        {
+            "Date-Time": "2023-01-03 05:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 45
+        },
+        {
+            "Date-Time": "2023-01-03 06:00",
+            "2xx (Success)": 110,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 49
+        },
+        {
+            "Date-Time": "2023-01-03 07:00",
+            "2xx (Success)": 115,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 50
+        },
+        {
+            "Date-Time": "2023-01-03 08:00",
+            "2xx (Success)": 120,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 47
+        },
+        {
+            "Date-Time": "2023-01-03 09:00",
+            "2xx (Success)": 125,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 52
+        },
+        {
+            "Date-Time": "2023-01-03 10:00",
+            "2xx (Success)": 120,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 51
+        },
+        {
+            "Date-Time": "2023-01-03 11:00",
+            "2xx (Success)": 125,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 50
+        },
+        {
+            "Date-Time": "2023-01-03 12:00",
+            "2xx (Success)": 130,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 49
+        },
+        {
+            "Date-Time": "2023-01-03 13:00",
+            "2xx (Success)": 135,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 47
+        },
+        {
+            "Date-Time": "2023-01-03 14:00",
+            "2xx (Success)": 140,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 45
+        },
+        {
+            "Date-Time": "2023-01-03 15:00",
+            "2xx (Success)": 145,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 44
+        },
+        {
+            "Date-Time": "2023-01-03 16:00",
+            "2xx (Success)": 140,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 42
+        },
+        {
+            "Date-Time": "2023-01-03 17:00",
+            "2xx (Success)": 135,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 43
+        },
+        {
+            "Date-Time": "2023-01-03 18:00",
+            "2xx (Success)": 130,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 47
+        },
+        {
+            "Date-Time": "2023-01-03 19:00",
+            "2xx (Success)": 125,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 48
+        },
+        {
+            "Date-Time": "2023-01-03 20:00",
+            "2xx (Success)": 120,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 49
+        },
+        {
+            "Date-Time": "2023-01-03 21:00",
+            "2xx (Success)": 125,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 50
+        },
+        {
+            "Date-Time": "2023-01-03 22:00",
+            "2xx (Success)": 130,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 51
+        },
+        {
+            "Date-Time": "2023-01-03 23:00",
+            "2xx (Success)": 135,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 52
+        },
+        {
+            "Date-Time": "2023-01-04 00:00",
+            "2xx (Success)": 140,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 53
+        },
+        {
+            "Date-Time": "2023-01-04 01:00",
+            "2xx (Success)": 145,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 54
+        },
+        {
+            "Date-Time": "2023-01-04 02:00",
+            "2xx (Success)": 140,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 55
+        },
+        {
+            "Date-Time": "2023-01-04 03:00",
+            "2xx (Success)": 135,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 56
+        },
+        {
+            "Date-Time": "2023-01-04 04:00",
+            "2xx (Success)": 130,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 57
+        },
+        {
+            "Date-Time": "2023-01-04 05:00",
+            "2xx (Success)": 125,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 58
+        },
+        {
+            "Date-Time": "2023-01-04 06:00",
+            "2xx (Success)": 120,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 59
+        },
+        {
+            "Date-Time": "2023-01-04 07:00",
+            "2xx (Success)": 115,
+            "4xx (Client Errors)": 1,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 60
+        },
+        {
+            "Date-Time": "2023-01-04 08:00",
+            "2xx (Success)": 110,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 61
+        },
+        {
+            "Date-Time": "2023-01-04 09:00",
+            "2xx (Success)": 105,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 62
+        },
+        {
+            "Date-Time": "2023-01-04 10:00",
+            "2xx (Success)": 100,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 63
+        },
+        {
+            "Date-Time": "2023-01-04 11:00",
+            "2xx (Success)": 95,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 64
+        },
+        {
+            "Date-Time": "2023-01-04 12:00",
+            "2xx (Success)": 90,
+            "4xx (Client Errors)": 1,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 65
+        },
+        {
+            "Date-Time": "2023-01-04 13:00",
+            "2xx (Success)": 85,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 66
+        },
+        {
+            "Date-Time": "2023-01-04 14:00",
+            "2xx (Success)": 80,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 67
+        },
+        {
+            "Date-Time": "2023-01-04 15:00",
+            "2xx (Success)": 75,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 68
+        },
+        {
+            "Date-Time": "2023-01-04 16:00",
+            "2xx (Success)": 70,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 69
+        },
+        {
+            "Date-Time": "2023-01-04 17:00",
+            "2xx (Success)": 65,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 70
+        },
+        {
+            "Date-Time": "2023-01-04 18:00",
+            "2xx (Success)": 60,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 3,
+            "Latency 95th Percentile (ms)": 71
+        },
+        {
+            "Date-Time": "2023-01-04 19:00",
+            "2xx (Success)": 55,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 72
+        },
+        {
+            "Date-Time": "2023-01-04 20:00",
+            "2xx (Success)": 50,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 73
+        },
+        {
+            "Date-Time": "2023-01-04 21:00",
+            "2xx (Success)": 45,
+            "4xx (Client Errors)": 1,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 74
+        },
+        {
+            "Date-Time": "2023-01-04 22:00",
+            "2xx (Success)": 40,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 75
+        },
+        {
+            "Date-Time": "2023-01-04 23:00",
+            "2xx (Success)": 35,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 3,
+            "Latency 95th Percentile (ms)": 76
+        },
+        {
+            "Date-Time": "2023-01-05 00:00",
+            "2xx (Success)": 30,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 77
+        },
+        {
+            "Date-Time": "2023-01-05 01:00",
+            "2xx (Success)": 25,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 78
+        },
+        {
+            "Date-Time": "2023-01-05 02:00",
+            "2xx (Success)": 20,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 79
+        },
+        {
+            "Date-Time": "2023-01-05 03:00",
+            "2xx (Success)": 15,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 80
+        },
+        {
+            "Date-Time": "2023-01-05 04:00",
+            "2xx (Success)": 10,
+            "4xx (Client Errors)": 1,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 81
+        },
+        {
+            "Date-Time": "2023-01-05 05:00",
+            "2xx (Success)": 5,
+            "4xx (Client Errors)": 0,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 82
+        },
+        {
+            "Date-Time": "2023-01-05 06:00",
+            "2xx (Success)": 10,
+            "4xx (Client Errors)": 1,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 83
+        },
+        {
+            "Date-Time": "2023-01-05 07:00",
+            "2xx (Success)": 15,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 84
+        },
+        {
+            "Date-Time": "2023-01-05 08:00",
+            "2xx (Success)": 20,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 85
+        },
+        {
+            "Date-Time": "2023-01-05 09:00",
+            "2xx (Success)": 25,
+            "4xx (Client Errors)": 6,
+            "5xx (Server Errors)": 3,
+            "Latency 95th Percentile (ms)": 86
+        },
+        {
+            "Date-Time": "2023-01-05 10:00",
+            "2xx (Success)": 30,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 87
+        },
+        {
+            "Date-Time": "2023-01-05 11:00",
+            "2xx (Success)": 35,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 88
+        },
+        {
+            "Date-Time": "2023-01-05 12:00",
+            "2xx (Success)": 40,
+            "4xx (Client Errors)": 1,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 89
+        },
+        {
+            "Date-Time": "2023-01-05 13:00",
+            "2xx (Success)": 45,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 90
+        },
+        {
+            "Date-Time": "2023-01-05 14:00",
+            "2xx (Success)": 50,
+            "4xx (Client Errors)": 4,
+            "5xx (Server Errors)": 3,
+            "Latency 95th Percentile (ms)": 91
+        },
+        {
+            "Date-Time": "2023-01-05 15:00",
+            "2xx (Success)": 55,
+            "4xx (Client Errors)": 5,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 92
+        },
+        {
+            "Date-Time": "2023-01-05 16:00",
+            "2xx (Success)": 60,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 93
+        },
+        {
+            "Date-Time": "2023-01-05 17:00",
+            "2xx (Success)": 65,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 94
+        },
+        {
+            "Date-Time": "2023-01-05 18:00",
+            "2xx (Success)": 70,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 95
+        },
+        {
+            "Date-Time": "2023-01-05 19:00",
+            "2xx (Success)": 75,
+            "4xx (Client Errors)": 1,
+            "5xx (Server Errors)": 3,
+            "Latency 95th Percentile (ms)": 96
+        },
+        {
+            "Date-Time": "2023-01-05 20:00",
+            "2xx (Success)": 80,
+            "4xx (Client Errors)": 0,
+            "5xx (Server Errors)": 2,
+            "Latency 95th Percentile (ms)": 97
+        },
+        {
+            "Date-Time": "2023-01-05 21:00",
+            "2xx (Success)": 85,
+            "4xx (Client Errors)": 1,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 98
+        },
+        {
+            "Date-Time": "2023-01-05 22:00",
+            "2xx (Success)": 90,
+            "4xx (Client Errors)": 2,
+            "5xx (Server Errors)": 0,
+            "Latency 95th Percentile (ms)": 99
+        },
+        {
+            "Date-Time": "2023-01-05 23:00",
+            "2xx (Success)": 95,
+            "4xx (Client Errors)": 3,
+            "5xx (Server Errors)": 1,
+            "Latency 95th Percentile (ms)": 100
+        }
+    ]
+}
